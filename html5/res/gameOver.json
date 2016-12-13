@@ -1,0 +1,153 @@
+{
+  "ID": "6eccdf10-a34d-4a56-ad30-36e36966fd47",
+  "Version": "2.2.1.0",
+  "Name": "gameOver",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 40,
+        "PrePosition": {
+          "X": 0.0,
+          "Y": 0.0
+        },
+        "PreSize": {
+          "X": 0.0,
+          "Y": 0.0
+        },
+        "Children": [
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "gameover.png"
+            },
+            "Tag": 42,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 0.5
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "ActionTag": 1850911142,
+            "Position": {
+              "X": 240.0,
+              "Y": 400.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "CColor": {},
+            "Size": {
+              "X": 480.0,
+              "Y": 800.0
+            },
+            "FrameEvent": "",
+            "Name": "gameover_2",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "DisabledFileData": {
+              "Type": "Default",
+              "Path": "Default/Button_Disable.png"
+            },
+            "PressedFileData": {
+              "Type": "Normal",
+              "Path": "game_Reagain_selected.png"
+            },
+            "NormalFileData": {
+              "Type": "Normal",
+              "Path": "game_Reagain.png"
+            },
+            "Scale9Enable": true,
+            "Scale9Width": 300,
+            "Scale9Height": 41,
+            "TouchEnable": true,
+            "Tag": 44,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 0.325
+            },
+            "PreSize": {
+              "X": 0.625,
+              "Y": 0.05125
+            },
+            "LeftMargin": 90.0,
+            "RightMargin": 90.0,
+            "TopMargin": 519.5,
+            "BottomMargin": 239.5,
+            "ActionTag": 1790287399,
+            "Position": {
+              "X": 240.0,
+              "Y": 260.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "CColor": {},
+            "Size": {
+              "X": 300.0,
+              "Y": 41.0
+            },
+            "FrameEvent": "",
+            "Name": "Button_2",
+            "ctype": "ButtonObjectData"
+          }
+        ],
+        "Position": {
+          "X": 0.0,
+          "Y": 0.0
+        },
+        "Scale": {
+          "ScaleX": 1.0,
+          "ScaleY": 1.0
+        },
+        "AnchorPoint": {},
+        "CColor": {},
+        "Size": {
+          "X": 480.0,
+          "Y": 800.0
+        },
+        "FrameEvent": "",
+        "Name": "Layer",
+        "ctype": "LayerObjectData"
+      },
+      "ctype": "GameProjectData"
+    },
+    "CameraPosition": {
+      "ValueX": 0.0,
+      "ValueY": 5.0,
+      "ValueZ": -1.0
+    },
+    "CameraRotation": {
+      "ValueX": 0.0,
+      "ValueY": 0.0,
+      "ValueZ": 0.0
+    }
+  },
+  "Type": "Layer"
+}

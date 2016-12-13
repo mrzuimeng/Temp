@@ -1,0 +1,49 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "enemy2Baoza",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_duration": 0.4,
+  "sample": 10,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "b94663f5-5de0-4c94-9806-718b2b16bb93"
+            }
+          },
+          {
+            "frame": 0.1,
+            "value": {
+              "__uuid__": "4727542f-ee86-4275-b091-2f5f33380c46"
+            }
+          },
+          {
+            "frame": 0.2,
+            "value": {
+              "__uuid__": "1acf29ca-3e67-47ef-82f2-af428b660464"
+            }
+          },
+          {
+            "frame": 0.3,
+            "value": {
+              "__uuid__": "d5306efe-4ef4-4b64-84b6-8868961e4a66"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": [
+    {
+      "frame": 0.4,
+      "func": "removeEnemy",
+      "params": []
+    }
+  ]
+}

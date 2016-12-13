@@ -1,0 +1,292 @@
+{
+  "ID": "7cf21cdf-e646-4e9e-b343-abb74b20c2bb",
+  "Version": "2.2.1.0",
+  "Name": "ui",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 26,
+        "PrePosition": {
+          "X": 0.0,
+          "Y": 0.0
+        },
+        "PreSize": {
+          "X": 0.0,
+          "Y": 0.0
+        },
+        "Children": [
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "background.png"
+            },
+            "Tag": 28,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 0.5
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "ActionTag": 410652484,
+            "Position": {
+              "X": 240.0,
+              "Y": 400.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "CColor": {},
+            "Size": {
+              "X": 480.0,
+              "Y": 800.0
+            },
+            "FrameEvent": "",
+            "Name": "background_1",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "gamename.png"
+            },
+            "Tag": 29,
+            "PrePosition": {
+              "X": 0.49791795,
+              "Y": 0.7362477
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 53.00061,
+            "RightMargin": 54.99939,
+            "TopMargin": 180.501831,
+            "BottomMargin": 558.498169,
+            "ActionTag": -1168968005,
+            "Position": {
+              "X": 239.00061,
+              "Y": 588.998169
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "CColor": {},
+            "Size": {
+              "X": 372.0,
+              "Y": 61.0
+            },
+            "FrameEvent": "",
+            "Name": "gamename_2",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "DisabledFileData": {
+              "Type": "Default",
+              "Path": "Default/Button_Disable.png"
+            },
+            "PressedFileData": {
+              "Type": "Normal",
+              "Path": "game_start_selected.png"
+            },
+            "NormalFileData": {
+              "Type": "Normal",
+              "Path": "game_start.png"
+            },
+            "Scale9Enable": true,
+            "Scale9Width": 300,
+            "Scale9Height": 41,
+            "TouchEnable": true,
+            "Tag": 30,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 0.3375
+            },
+            "PreSize": {
+              "X": 0.625,
+              "Y": 0.05125
+            },
+            "LeftMargin": 90.0,
+            "RightMargin": 90.0,
+            "TopMargin": 509.5,
+            "BottomMargin": 249.5,
+            "ActionTag": 1089852293,
+            "Position": {
+              "X": 240.0,
+              "Y": 270.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "CColor": {},
+            "Size": {
+              "X": 300.0,
+              "Y": 41.0
+            },
+            "FrameEvent": "",
+            "Name": "Button_1",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "DisabledFileData": {
+              "Type": "Default",
+              "Path": "Default/Button_Disable.png"
+            },
+            "PressedFileData": {
+              "Type": "Normal",
+              "Path": "game_help_selected.png"
+            },
+            "NormalFileData": {
+              "Type": "Normal",
+              "Path": "game_help.png"
+            },
+            "Scale9Enable": true,
+            "Scale9Width": 300,
+            "Scale9Height": 41,
+            "TouchEnable": true,
+            "Tag": 31,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 0.2125
+            },
+            "PreSize": {
+              "X": 0.625,
+              "Y": 0.05125
+            },
+            "LeftMargin": 90.0,
+            "RightMargin": 90.0,
+            "TopMargin": 609.5,
+            "BottomMargin": 149.5,
+            "ActionTag": 1239422930,
+            "Position": {
+              "X": 240.0,
+              "Y": 170.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "CColor": {},
+            "Size": {
+              "X": 300.0,
+              "Y": 41.0
+            },
+            "FrameEvent": "",
+            "Name": "Button_2",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "hero1.png"
+            },
+            "Tag": 57,
+            "PrePosition": {
+              "X": 0.5017379,
+              "Y": 0.513542235
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 189.8342,
+            "RightMargin": 188.1658,
+            "TopMargin": 326.166229,
+            "BottomMargin": 347.833771,
+            "ActionTag": -1306005295,
+            "Position": {
+              "X": 240.8342,
+              "Y": 410.833771
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "CColor": {},
+            "Size": {
+              "X": 102.0,
+              "Y": 126.0
+            },
+            "FrameEvent": "",
+            "Name": "hero1_3",
+            "ctype": "SpriteObjectData"
+          }
+        ],
+        "Position": {
+          "X": 0.0,
+          "Y": 0.0
+        },
+        "Scale": {
+          "ScaleX": 1.0,
+          "ScaleY": 1.0
+        },
+        "AnchorPoint": {},
+        "CColor": {},
+        "Size": {
+          "X": 480.0,
+          "Y": 800.0
+        },
+        "FrameEvent": "",
+        "Name": "Layer",
+        "ctype": "LayerObjectData"
+      },
+      "ctype": "GameProjectData"
+    },
+    "CameraPosition": {
+      "ValueX": 0.0,
+      "ValueY": 5.0,
+      "ValueZ": -1.0
+    },
+    "CameraRotation": {
+      "ValueX": 0.0,
+      "ValueY": 0.0,
+      "ValueZ": 0.0
+    }
+  },
+  "Type": "Layer"
+}

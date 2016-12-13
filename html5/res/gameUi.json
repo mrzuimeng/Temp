@@ -1,0 +1,334 @@
+{
+  "ID": "16a93b52-61fc-441e-a9fa-4abdfab1e589",
+  "Version": "2.2.1.0",
+  "Name": "gameUi",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 32,
+        "PrePosition": {
+          "X": 0.0,
+          "Y": 0.0
+        },
+        "PreSize": {
+          "X": 0.0,
+          "Y": 0.0
+        },
+        "Children": [
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "background.png"
+            },
+            "Tag": 33,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 0.5
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "ActionTag": 1164064249,
+            "Position": {
+              "X": 240.0,
+              "Y": 400.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "CColor": {},
+            "Size": {
+              "X": 480.0,
+              "Y": 800.0
+            },
+            "FrameEvent": "",
+            "Name": "background_1",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "hero1.png"
+            },
+            "Tag": 34,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 0.14375
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 189.0,
+            "RightMargin": 189.0,
+            "TopMargin": 622.0,
+            "BottomMargin": 52.0,
+            "ActionTag": 87637676,
+            "Position": {
+              "X": 240.0,
+              "Y": 115.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "CColor": {},
+            "Size": {
+              "X": 102.0,
+              "Y": 126.0
+            },
+            "FrameEvent": "",
+            "Name": "hero1_2",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "bullet2.png"
+            },
+            "Tag": 35,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 0.225
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 237.5,
+            "RightMargin": 237.5,
+            "TopMargin": 614.5,
+            "BottomMargin": 174.5,
+            "ActionTag": 1213139009,
+            "Position": {
+              "X": 240.0,
+              "Y": 180.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "CColor": {},
+            "Size": {
+              "X": 5.0,
+              "Y": 11.0
+            },
+            "FrameEvent": "",
+            "Name": "bullet2_3",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "enemy1.png"
+            },
+            "Tag": 36,
+            "PrePosition": {
+              "X": 0.104395546,
+              "Y": 1.05416787
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 21.6098633,
+            "RightMargin": 401.390137,
+            "TopMargin": -64.83429,
+            "BottomMargin": 821.8343,
+            "ActionTag": 1069464607,
+            "Position": {
+              "X": 50.1098633,
+              "Y": 843.3343
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "CColor": {},
+            "Size": {
+              "X": 57.0,
+              "Y": 43.0
+            },
+            "FrameEvent": "",
+            "Name": "enemy1_4",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "enemy2.png"
+            },
+            "Tag": 37,
+            "PrePosition": {
+              "X": 0.307870179,
+              "Y": 1.07083571
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 113.277679,
+            "RightMargin": 297.722321,
+            "TopMargin": -106.168579,
+            "BottomMargin": 807.1686,
+            "ActionTag": 464298780,
+            "Position": {
+              "X": 147.777679,
+              "Y": 856.6686
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "CColor": {},
+            "Size": {
+              "X": 69.0,
+              "Y": 99.0
+            },
+            "FrameEvent": "",
+            "Name": "enemy2_5",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "enemy3.png"
+            },
+            "Tag": 38,
+            "PrePosition": {
+              "X": 0.5648204,
+              "Y": 1.08125126
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 233.1138,
+            "RightMargin": 170.8862,
+            "TopMargin": -124.500977,
+            "BottomMargin": 805.501,
+            "ActionTag": -1585890032,
+            "Position": {
+              "X": 271.1138,
+              "Y": 865.001
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "CColor": {},
+            "Size": {
+              "X": 76.0,
+              "Y": 119.0
+            },
+            "FrameEvent": "",
+            "Name": "enemy3_6",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "ufo1.png"
+            },
+            "Tag": 39,
+            "PrePosition": {
+              "X": 0.784722447,
+              "Y": 1.062503
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 347.666779,
+            "RightMargin": 74.33322,
+            "TopMargin": -94.00238,
+            "BottomMargin": 806.0024,
+            "ActionTag": -1805858971,
+            "Position": {
+              "X": 376.666779,
+              "Y": 850.0024
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "CColor": {},
+            "Size": {
+              "X": 58.0,
+              "Y": 88.0
+            },
+            "FrameEvent": "",
+            "Name": "ufo1_7",
+            "ctype": "SpriteObjectData"
+          }
+        ],
+        "Position": {
+          "X": 0.0,
+          "Y": 0.0
+        },
+        "Scale": {
+          "ScaleX": 1.0,
+          "ScaleY": 1.0
+        },
+        "AnchorPoint": {},
+        "CColor": {},
+        "Size": {
+          "X": 480.0,
+          "Y": 800.0
+        },
+        "FrameEvent": "",
+        "Name": "Layer",
+        "ctype": "LayerObjectData"
+      },
+      "ctype": "GameProjectData"
+    },
+    "CameraPosition": {
+      "ValueX": 0.0,
+      "ValueY": 5.0,
+      "ValueZ": -1.0
+    },
+    "CameraRotation": {
+      "ValueX": 0.0,
+      "ValueY": 0.0,
+      "ValueZ": 0.0
+    }
+  },
+  "Type": "Layer"
+}
